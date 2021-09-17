@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Test-Image](images/TestPic.png)
 
-| CAUTION: This is text in a box | | — |
+| CAUTION: This is text in a box |
+| --- |
 
 ### Markdown
 
